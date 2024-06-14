@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GrzegorzMzyk
-- 👀 I’m interested in programing :)
+- 👀 I’m new in programing :)
 - 🌱 I’m currently learning SwiftUI
 - 📫 Instagram: @gr______mzy_
 <!---
