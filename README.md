@@ -1,6 +1,6 @@
 # Hi there, I'm Grzegorz Mzyk 👋
 
-Welcome to my GitHub profile! I'm a software developer with a passion for programming, electronics, and the latest technology trends. Below, you can learn more about me and my work.
+Welcome to my GitHub profile! I'm self-learning Swift and passion for programming, electronics, and the latest technology trends. Below, you can learn more about me and my work.
 
 ## About Me
 
