@@ -16,5 +16,10 @@ A party game for quick social integration and fun! It includes two modes: an eas
 **Technologies:** Swift, UIKit, Core Data  
 ![Opis obrazu](./pytajLej1.png)
 
+| Funkcja                          | Zrzut ekranu                         |
+|----------------------------------|--------------------------------------|
+| ![Ekran główny](./pytajLej2.png) | ![Ekran główny](./pytajLej1.png)     |
+|                                  |                                      |
+
 
 Thanks for visiting my profile! Have a great day! 😄
