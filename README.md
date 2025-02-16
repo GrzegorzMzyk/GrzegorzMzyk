@@ -15,6 +15,6 @@ Welcome to my GitHub profile! I'm self-learning Swift and passion for programmin
 A party game for quick social integration and fun! It includes two modes: an easier one and a more controversial one – perfect for any party! 🥂  
 **Technologies:** Swift, UIKit, Core Data  
 
-<img src="./pytajLej1.png" alt="Opis obrazu" width="300" height="200">
+<img src="https://github.com/GrzegorzMzyk/CardGame/blob/cdd53e539db5cb842498c05403ded7b66f89f7c9/pytajLej1.png" width="300" alt="Opis obrazka">
 
 Thanks for visiting my profile! Have a great day! 😄
