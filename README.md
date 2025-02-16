@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm self-learning Swift and passion for programmin
 
 ### 📌 [Pytaj&Lej](https://github.com/GrzegorzMzyk/CardGame)
 A party game for quick social integration and fun! It includes two modes: an easier one and a more controversial one – perfect for any party! 🥂  
-**App Store:** [Pytaj&Lej](https://apps.apple.com/pl/app/pytaj-lej/id6741776540?l=pl)
+**App Store:** [Pytaj&Lej](https://apps.apple.com/pl/app/pytaj-lej/id6741776540?l=pl) 
+
 **Technologies:** Swift, UIKit, Core Data  
 
  <img src="https://github.com/GrzegorzMzyk/CardGame/blob/cdd53e539db5cb842498c05403ded7b66f89f7c9/pytajLej2.png" width="300" alt="Opis obrazka">
