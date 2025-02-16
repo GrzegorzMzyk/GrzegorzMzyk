@@ -3,11 +3,12 @@
 Welcome to my GitHub profile! I'm self-learning Swift and passion for programming, electronics, and the latest technology trends. Below, you can learn more about me and my work.
 
 ## About Me
+* 🌍  I'm based in Warsaw, Poland
+* ✉️  You can contact me at [mzykgrzegorz@gmail.com](mailto:mzykgrzegorz@gmail.com)
+* 🚀  I'm currently working on [Pytaj&Lej](http://github.com/GrzegorzMzyk/CardGame)
+* ⚡  In my free time I usually ride a bike.
 
-- **Name:** Grzegorz Mzyk
-- **Location:** Warsaw, Poland
-- **Instagram:** [gr______mzy_](https://www.instagram.com/gr______mzy_?igsh=dDVkNzI5M2Zhb2pw&utm_source=qr)
-- **LinkedIn:** [Grzegorz Mzyk](https://www.linkedin.com/in/grmzy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+### Socials  <p align="left"> <a href="https://www.github.com/GrzegorzMzyk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/gr______mzy_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/grmzy/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/21363533/grmzy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 
 ## 📱 My Projects
 
