@@ -18,7 +18,7 @@ A party game for quick social integration and fun! It includes two modes: an eas
 
 | Funkcja                          | Zrzut ekranu                         |
 |----------------------------------|--------------------------------------|
-| ![Ekran główny](./pytajLej2.png) | ![Ekran główny](./pytajLej1.png)     |
+| ![Ekran główny](./pytajLej2.png) | ![Ekran główny](./CardGame/pytajLej1.png)     |
 |                                  |                                      |
 
 
